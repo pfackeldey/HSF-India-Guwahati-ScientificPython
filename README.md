@@ -7,19 +7,18 @@ more here: https://indico.cern.ch/event/1580062/timetable/
 
 ## Binderhub setup
 
-[![Binder](https://binderhub.ssl-hep.org/badge_logo.svg)](https://binderhub.ssl-hep.org/v2/gh/pfackeldey/courses-hsf-india-Nov2025/python_part2)
+[![Binder](https://binderhub.ssl-hep.org/badge_logo.svg)](https://binderhub.ssl-hep.org/v2/gh/
+research-software-collaborations/courses-hsf-india-Nov2025/python)
 
 
 ## Local setup
 
-First, clone this repository and checkout the `python` branch.
+First, clone this repository:
 
 ```shell
-git clone https://github.com/pfackeldey/courses-hsf-india-Nov2025.git
+git clone https://github.com/pfackeldey/HSF-India-Guwahati-ScientificPython.git
 
-cd courses-hsf-india-Nov2025
-
-git checkout python_part2
+cd HSF-India-Guwahati-ScientificPython
 ```
 
 Make sure you've [installed pixi](https://pixi.sh/latest/installation/) on your computer.
