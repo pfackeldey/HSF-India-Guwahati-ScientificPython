@@ -7,8 +7,7 @@ more here: https://indico.cern.ch/event/1580062/timetable/
 
 ## Binderhub setup
 
-[![Binder](https://binderhub.ssl-hep.org/badge_logo.svg)](https://binderhub.ssl-hep.org/v2/gh/
-research-software-collaborations/courses-hsf-india-Nov2025/python)
+[![Binder](https://binderhub.ssl-hep.org/badge_logo.svg)](https://binderhub.ssl-hep.org/v2/gh/research-software-collaborations/courses-hsf-india-Nov2025/python)
 
 
 ## Local setup
