@@ -2,7 +2,7 @@ import numpy as np
 
 def mandelbrot_numpy(x, y):
     c = x + y*1j
-    fractal = np.full(c.shape, 20, dtype=np.int32)
+    fractal = np.full(c.shape, 20, dtype=np.int8)
     z = c
     for i in range(20):
         z = z**2 + c                                 # applying z → z² + c
